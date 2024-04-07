@@ -1,8 +1,0 @@
-D:\Github\Icebear-s-home\GS\GameServer\GameServer\bin\Debug\GameServer.exe.config
-D:\Github\Icebear-s-home\GS\GameServer\GameServer\bin\Debug\GameServer.exe
-D:\Github\Icebear-s-home\GS\GameServer\GameServer\bin\Debug\GameServer.pdb
-D:\Github\Icebear-s-home\GS\GameServer\GameServer\obj\Debug\GameServer.csproj.AssemblyReference.cache
-D:\Github\Icebear-s-home\GS\GameServer\GameServer\obj\Debug\GameServer.csproj.SuggestedBindingRedirects.cache
-D:\Github\Icebear-s-home\GS\GameServer\GameServer\obj\Debug\GameServer.csproj.CoreCompileInputs.cache
-D:\Github\Icebear-s-home\GS\GameServer\GameServer\obj\Debug\GameServer.exe
-D:\Github\Icebear-s-home\GS\GameServer\GameServer\obj\Debug\GameServer.pdb
